@@ -59,8 +59,4 @@ This dashboard helps HR and managers track intern productivity and performance a
 ### 🔹 DAX (Data Analysis Expressions)  
 - Created measures for **Completion Rate**, **Average Score**, **Teamwork %**  
 - Used **GROUPBY** for department-level aggregations  
-- Applied filters for **weekly task assignment trends**  
-
----
-
-## 📂 Repository Structure  
+- Applied filters for **weekly task assignment trends** 
